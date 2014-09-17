@@ -39,5 +39,5 @@ Refer to these commands as we walk through our story...
 
 
 
-[slides]: https://github.com/pointful/docker-intro
+[slides]: http://pointful.github.io/docker-intro/
 [jl]: https://github.com/pointful
