@@ -37,6 +37,24 @@ Refer to these commands as we walk through our story...
 
     cat new.txt
 
+    git clone https://github.com/spitimage/docker101.git
+
+    cd docker101
+
+    docker build -t myprog .
+
+    docker images
+
+    docker run -it myprog
+
+    (Ctrl-C and Ctrl-D to exit the container and stop it)
+
+    docker run -d myprog
+
+    d logs -f <container from last cmd>
+
+
+
 
 
 [slides]: http://pointful.github.io/docker-intro/
