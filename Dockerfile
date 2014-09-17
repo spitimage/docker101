@@ -5,7 +5,7 @@ FROM busybox
 MAINTAINER Aaron Nielsen spitimage@gmail.com
 
 # Add our "program" to the new image (this is added as a new filesystem layer)
-ADD run.sh /bin
+ADD run.sh /bin/
 
 # Provide default arguments (the program we just installed)
 CMD ["/bin/sh", "/bin/run.sh"]
