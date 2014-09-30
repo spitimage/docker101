@@ -6,5 +6,5 @@ Refer to [these][slides] introduction slides for a great Docker overview (specia
 
 
 
-[slides]: http://pointful.github.io/docker-intro/
+[slides]: http://spitimage.github.io/docker-intro/
 [jl]: https://github.com/pointful
